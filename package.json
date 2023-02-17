@@ -2,7 +2,7 @@
   "name": "NuxtJs-Auth-using-nuxtjs-auth-module",
   "version": "1.0.0",
   "description": "An example of implementation of @nuxtjs/auth module in NuxtJs",
-  "author": "VinayakNivalkar",
+  "author": "Mark",
   "private": true,
   "scripts": {
     "dev": "nuxt",
